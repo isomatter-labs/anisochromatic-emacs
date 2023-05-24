@@ -364,7 +364,7 @@
       (hi-pink                                   (:foreground anisochromatic-background-0 :background anisochromatic-bright-purple))
       (hi-red-b                                  (:foreground anisochromatic-bright-red :bold t))
       (hi-yellow                                 (:foreground anisochromatic-background-0 :background anisochromatic-bright-yellow))
-      (highlight                                 (:foreground anisochromatic-bright-blue :background anisochromatic-background-0))
+      (highlight                                 (:foreground anisochromatic-bright-blue :background anisochromatic-background-blue))
       (highlight-indentation-current-column-face (:background anisochromatic-background-4))
       (highlight-indentation-face                (:background anisochromatic-background-1))
       (highlight-numbers-number                  (:foreground anisochromatic-bright-purple :bold nil))
