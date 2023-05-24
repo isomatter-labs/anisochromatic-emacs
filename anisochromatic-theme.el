@@ -4,7 +4,7 @@
 
 ;; Authors: Cooper Healy <m.cooper.healy@gmail.com>
 ;; URL: http://github.com/isomatter-labs/anisochromatic-emacs
-;; Version: 1.0.0
+;; Version: 0.1.0
 
 ;; Package-Requires: ((emacs "27.1") (autothemer "0.2"))
 

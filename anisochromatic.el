@@ -4,7 +4,7 @@
 
 ;; Authors: Cooper Healy <m.cooper.healy@gmail.com>
 ;; URL: http://github.com/isomatter-labs/anisochromatic-emacs
-;; Version: 1.0.0
+;; Version: 0.1.0
 
 ;; Package-Requires: ((emacs "27.1") (autothemer "0.2"))
 
@@ -382,7 +382,7 @@
       (ido-vertical-first-match-face             (:foreground anisochromatic-foreground-0 :background anisochromatic-background-0))
       (ido-vertical-match-face                   (:bold t))
       (ido-vertical-only-match-face              (:foreground anisochromatic-foreground-0))
-      (isearch                                   (:foreground anisochromatic-bright-blue :background anisochromatic-background-blue))
+      (isearch                                   (:foreground anisochromatic-bright-blue :background anisochromatic-background-0))
       (isearch-fail                              (:foreground anisochromatic-bright-red :background anisochromatic-background-0))
       (ivy-confirm-face                          (:foreground anisochromatic-bright-green))
       (ivy-current-match                         (:foreground anisochromatic-bright-blue :background anisochromatic-background-0))
