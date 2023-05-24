@@ -165,5 +165,5 @@
                   (file-name-as-directory
                    (file-name-directory load-file-name))))
 
-(provide-theme 'anisochromatic)
+(provide-theme 'anisochromatic-theme)
 ;;; anisochromatic-theme.el ends here
