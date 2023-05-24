@@ -17,7 +17,7 @@
 
 (require 'anisochromatic)
 
-(anisochromatic-deftheme anisochromatic-theme "The Colorscheme of Tomorrow!"
+(anisochromatic-deftheme anisochromatic "The Colorscheme of Tomorrow!"
   ((((class color) (min-colors #xFFFFFF)) ;; color column 1 GUI/24bit
     ((class color) (min-colors #xFF)))    ;; color column 2 Xterm/256
 
