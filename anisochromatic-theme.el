@@ -17,7 +17,7 @@
 
 (require 'anisochromatic)
 
-(anisochromatic-deftheme anisochromatic "The Colorscheme of Tomorrow!"
+(anisochromatic-deftheme anisochromatic-theme "The Colorscheme of Tomorrow!"
   ((((class color) (min-colors #xFFFFFF)) ;; color column 1 GUI/24bit
     ((class color) (min-colors #xFF)))    ;; color column 2 Xterm/256
 
@@ -165,5 +165,5 @@
                   (file-name-as-directory
                    (file-name-directory load-file-name))))
 
-(provide-theme 'anisochromatic-theme)
+(provide-theme 'anisochromatic)
 ;;; anisochromatic-theme.el ends here
