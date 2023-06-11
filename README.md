@@ -8,6 +8,9 @@ A port of [Anisochromatic](https://github.com/isomatter-labs/anisochromatic) to 
 Anisochromatic is a colorscheme created with the primary purpose of being readable,
 pleasant, and mildly retro, while maintaining the color attributes used by
 GitHub's code viewer.
+(The one exception to this rule is string literals, which have been migrated from
+blue to teal, since many common colorschemes use green for string literals, and this
+seemed to be a happy medium.)
 
 This is done to reduce mental overhead when looking back and forth between one's editor and
 code on GitHub.
