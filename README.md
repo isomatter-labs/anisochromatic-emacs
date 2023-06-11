@@ -2,7 +2,7 @@
 A port of [Anisochromatic](https://github.com/isomatter-labs/anisochromatic) to Emacs.
 
 ![Screenshot](img/screenshot.png)
-(Code is taken from [Charm](https://github.com/charmbracelet/charm))
+(Code in screenshot is taken from [Charm](https://github.com/charmbracelet/charm))
 
 ## Why?
 Anisochromatic is a colorscheme created with the primary purpose of being readable,
